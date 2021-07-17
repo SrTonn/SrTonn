@@ -1,15 +1,28 @@
-![Snake animation](https://github.com/SrTonn/SrTonn/blob/output/github-contribution-grid-snake.svg)
-<!--
-**SrTonn/SrTonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Wellington%20Rodrigues-Tonn-%2357BCDA" alt="srtonn" />
+  <a href="mailto:ton.rodrigues@icloud.com?Subject=GitHub"><img src="https://img.shields.io/badge/mail-ton.rodrigues%40icloud.com-blue" alt="mail" /></a>
+  <img src="https://komarev.com/ghpvc/?username=srtonn" alt="profile views" />
+  <img src="https://img.shields.io/twitter/follow/SrTonn?style=social" alt="twitter" />
+</p>
 
-Here are some ideas to get you started:
+<div align="center" style="margin-top: 30px" style="display: inline_block">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srtonn&show_icons=true&theme=react&include_all_commits=true&hide=prs,contribs&count_private=true&custom_title=GitHub%20Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srtonn&theme=react&layout=compact&langs_count=6&card_width=445"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" style="margin-top: 30px" style="display: inline_block"><br>
+  <img align="center" title="JavaScript" alt="Tonn-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" title="TypeScript" alt="Tonn-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" title="React" alt="Tonn-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" title="HTML5" alt="Tonn-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" title="CSS3" alt="Tonn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" title="NodeJS" alt="Tonn-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" title="GIT" alt="Tonn-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
+
+##
+
+<div align="center" style="margin-top: 30px" style="display: inline_block"><br>
+  <img height="180em" src="https://github.com/SrTonn/SrTonn/blob/output/github-contribution-grid-snake.svg"/>
+</div>
