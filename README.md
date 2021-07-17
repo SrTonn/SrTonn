@@ -1,9 +1,10 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Wellington%20Rodrigues-Tonn-%2357BCDA" alt="srtonn" />
-  <a href="mailto:ton.rodrigues@icloud.com?Subject=GitHub"><img src="https://img.shields.io/badge/mail-ton.rodrigues%40icloud.com-blue" alt="mail" /></a>
-  <img src="https://komarev.com/ghpvc/?username=srtonn" alt="profile views" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Wellington%20Rodrigues-Tonn-007ACC" alt="srtonn" />
+  <a href="mailto:ton.rodrigues@icloud.com?Subject=GitHub"><img src="https://img.shields.io/badge/mail-ton.rodrigues%40icloud.com-007ACC" alt="mail" /></a>
+  <img src="https://komarev.com/ghpvc/?username=srtonn" alt="profile views" /><br/>
+  <a href="https://www.linkedin.com/in/wellingtonrodrigues/"><img src="https://img.shields.io/badge/-Wellington%20Rodrigues-007ACC?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/perfil-wellingtonrodrigues/" alt="linkedIn" /></a>
   <img src="https://img.shields.io/twitter/follow/SrTonn?style=social" alt="twitter" />
-</p>
+</div>
 
 <div align="center" style="margin-top: 30px" style="display: inline_block">
   <a href="https://github.com/rafaballerini">
