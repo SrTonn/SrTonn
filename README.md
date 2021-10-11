@@ -21,9 +21,3 @@
   <img align="center" title="NodeJS" alt="Tonn-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" title="GIT" alt="Tonn-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
-
-##
-
-<div align="center" style="margin-top: 30px" style="display: inline_block"><br>
-  <img height="180em" src="https://github.com/SrTonn/SrTonn/blob/output/github-contribution-grid-snake.svg"/>
-</div>
