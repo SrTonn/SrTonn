@@ -10,7 +10,7 @@
     <li>🌱 Aprendendo Front-end</li>
     <li>🤔 Meus hobbies são jogos, filmes e séries</li>
     <li>💬 Pergunte-me sobre qualquer coisa, amo conversar e ajudar pessoas</li>
-    <li>⚡ Fato interessante: sou fã de harry potter</li>
+    <li>⚡ Fato interessante: sou o carinha dos bots 🤖</li>
   </div>
 </div>
 
