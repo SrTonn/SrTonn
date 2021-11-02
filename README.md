@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&height=30&lines=Prazer%2C+Wellington+Rodrigues;Seja+Bem-vindo(a)+ao+meu+perfil)](https://git.io/typing-svg)<p>
-  Sou apaixonado por jogos e tecnologia, moro Macaé-RJ, e atualmente estudo Desenvolvimento web na <a href="https://betrybe.com">Trybe</a>  em parceria com a <a href="https://www.xpinc.com/">XP Inc.</a> 🚀!
+  Sou apaixonado por jogos e tecnologia, moro em Macaé-RJ 🌴, e atualmente estudo Desenvolvimento web na <a href="https://betrybe.com">Trybe</a>  em parceria com a <a href="https://www.xpinc.com/">XP Inc.</a> 🚀!
 </p>
 
 <h3><strong>Meus interesses pessoais</strong></h3>
