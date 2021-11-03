@@ -76,7 +76,7 @@
 <br />
 <div align="center">
   <p>
-    ⭐️ Perfil baseado em <a href="https://github.com/RoyMusthang">RoyMusthang</a> e <a href="https://github.com/webpointdev">webpointdev</a>
+    ⭐️ Perfil baseado em <a href="https://github.com/thalles-carneiro">Thalles Carneiro</a> e <a href="https://github.com/webpointdev">webpointdev</a>
   </p>
   <img src="https://komarev.com/ghpvc/?username=srtonn" alt="profile views" />
 </div>
