@@ -6,10 +6,10 @@
 <div align="center">
   <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
   <div align="left" style="display: inline_block">
-    <li>🔭 Estudando Desenvolvimento Web na trybe - turma XP</li>
-    <li>🌱 Aprendendo Front-end</li>
-    <li>🤔 Meus hobbies são jogos, filmes e séries</li>
-    <li>💬 Pergunte-me sobre qualquer coisa, amo conversar e ajudar pessoas</li>
+    <li>🔭 Estudando Desenvolvimento Web na trybe - turma XP.</li>
+    <li>🌱 Aprendendo Front-end e Jest.</li>
+    <li>🤔 Meus hobbies são jogos, séries e trilhas.</li>
+    <li>💬 Pergunte-me sobre qualquer coisa, amo conversar e ajudar pessoas.</li>
     <li>⚡ Fato interessante: sou o carinha dos bots 🤖</li>
   </div>
 </div>
@@ -24,10 +24,11 @@
   <img title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img title="PM2" alt="pm2" height="30" width="90" src="https://pm2.keymetrics.io/assets/logo.png"/>
-  <img title="MongoDB" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>
-  <img title="Linux" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
-  <img title="GIT" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/> 
+  <img title="PM2" alt="pm2" height="30" width="90" src="https://pm2.keymetrics.io/assets/logo.png">
+  <img title="Jest" alt="Jest" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+  <img title="MongoDB" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+  <img title="Linux" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img title="GIT" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
 </div>
 
 <hr>
