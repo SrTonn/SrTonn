@@ -12,9 +12,7 @@
     <li>💬 Pergunte-me sobre qualquer coisa, amo conversar e ajudar pessoas.</li>
     <li>⚡ Fato interessante: sou o carinha dos bots 🤖</li>
   </div>
-   <a href="https://github.com/srtonn" title="SrTonn profile">
      <img src="https://github.com/srtonn/srtonn/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" alt="snake eating commits">
-   <a/>
 </div>
 
 <hr>
