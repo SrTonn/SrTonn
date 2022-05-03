@@ -37,27 +37,23 @@
 <h4 align="center">📊 Estatísticas 📊</h4>
 <hr>
 <br>
-<p align=center>
+<!-- light mode -->
   <div align=center>
-    <a href="https://github.com/srtonn" title="SrTonn profile">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=SrTonn&theme=react&border=61dafb&hide_border=true#gh-dark-mode-only
-" alt="SrTonn" />
-    </a>
-    <a href="https://github.com/srtonn" title="SrTonn profile">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=SrTonn&show_icons=true&theme=react&border_color=61dafb&hide_border=true#gh-dark-mode-only
-" />
+    <a href="https://github.com/srtonn#gh-light-mode-only" title="SrTonn profile">
+      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=SrTonn&theme=graywhite&border=61dafb&hide_border=true#gh-light-mode-only" alt="SrTonn" />
+      <img width=396 src="https://github-readme-stats.vercel.app/api?username=SrTonn&show_icons=true&theme=graywhite&border_color=61dafb&hide_border=true#gh-light-mode-only" />
+      <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrTonn&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&langs_count=8&layout=compact&border_color=61dafb&hide_border=true#gh-light-mode-only" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <!-- dark mode -->
   <div align=center>
-    <a href="https://github.com/srtonn" title="SrTonn profile">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrTonn&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true#gh-dark-mode-only
-" />
+    <a href="https://github.com/srtonn#gh-dark-mode-only" title="SrTonn profile">
+      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=SrTonn&theme=react&border=61dafb&hide_border=true#gh-dark-mode-only" alt="SrTonn" />
+      <img width=396 src="https://github-readme-stats.vercel.app/api?username=SrTonn&show_icons=true&theme=react&border_color=61dafb&hide_border=true#gh-dark-mode-only" />
+      <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrTonn&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true#gh-dark-mode-only" />
     </a>
-  <br>
-  <br>
   </div>
-</p>
+  <br>
 <hr>
 <div align="center"><a href="https://www.codewars.com/users/SrTonn">
   <img height="60px" src="https://camo.githubusercontent.com/cb4c166d570c91abfa45e548c281b2d374faa4213a3690ad880a76098ce91fc4/68747470733a2f2f73656375726573657276657263646e2e6e65742f3136302e3135332e3133382e35332f3631302e3334312e6d7966747075706c6f61642e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30392f636f6465776172732e706e67" alt="codewar"></a>
