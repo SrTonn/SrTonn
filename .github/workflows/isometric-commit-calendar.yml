@@ -30,10 +30,8 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           filename: metrics.plugin.isocalendar.fullyear.svg
-          outputs: dist/metrics.plugin.isocalendar.fullyear.svg
 
       - name: push metrics.plugin.isocalendar.fullyear.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
          target_branch: output
-         build_dir: dist
