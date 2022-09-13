@@ -7,8 +7,8 @@
   <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
   <div align="left" style="display: inline_block">
     <li>🔭 Estudando Desenvolvimento Web na trybe - turma XP.</li>
-    <li>🌱 Aprendendo Back-end e mySQL.</li>
-    <li>🤔 Meus hobbies são jogos, séries e trilhas.</li>
+    <li>🌱 Aprendendo c#</li>
+    <li>🤔 Meus hobbies são jogos, séries e fazer trilhas.</li>
     <li>💬 Pergunte-me sobre qualquer coisa, amo conversar e ajudar pessoas.</li>
     <li>⚡ Fato interessante: sou fã de regex</li>
   </div>
